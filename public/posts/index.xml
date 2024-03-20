@@ -1,25 +1,25 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Blog example for Josh</title>
-    <link>http://localhost:57767/</link>
-    <description>Recent content on Blog example for Josh</description>
+    <title>Posts on Blog example for Josh</title>
+    <link>http://localhost:57745/posts/</link>
+    <description>Recent content in Posts on Blog example for Josh</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 20 Mar 2024 18:56:14 +0200</lastBuildDate>
-    <atom:link href="http://localhost:57767/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:57745/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>My Second Post</title>
-      <link>http://localhost:57767/posts/my-second-post/</link>
+      <link>http://localhost:57745/posts/my-second-post/</link>
       <pubDate>Wed, 20 Mar 2024 18:56:14 +0200</pubDate>
-      <guid>http://localhost:57767/posts/my-second-post/</guid>
+      <guid>http://localhost:57745/posts/my-second-post/</guid>
       <description>A very interesting template format for blog posts Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed eget justo ut lorem fermentum tincidunt. Nullam ut erat id elit aliquet accumsan. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Integer commodo, tortor sed vestibulum dapibus, sem arcu efficitur eros, nec blandit elit felis sit amet dolor. Curabitur fringilla velit non dui fringilla, vel consequat enim rutrum.</description>
     </item>
     <item>
       <title>My First Post</title>
-      <link>http://localhost:57767/posts/my-first-post/</link>
+      <link>http://localhost:57745/posts/my-first-post/</link>
       <pubDate>Wed, 20 Mar 2024 18:40:52 +0200</pubDate>
-      <guid>http://localhost:57767/posts/my-first-post/</guid>
+      <guid>http://localhost:57745/posts/my-first-post/</guid>
       <description>Introduction This is bold text, and this is emphasized text.&#xA;Visit the Hugo website!</description>
     </item>
   </channel>

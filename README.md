@@ -23,14 +23,6 @@ Start Hugo's development server:
 hugo server
 ```
 Open your browser and go to http://localhost:1313
-# Adding a new post
-Create a new Markdown file in the content/posts folder: 
-```
-hugo new content/posts/my-first-post.md
-```
-Enter the text of your post in the Markdown file
-Save the file
-Refresh the page in your browser
 
 # Basic commands
 - check the Hugo version
@@ -41,11 +33,15 @@ hugo version
 ``` 
 hugo server 
 ```
-
-- create a new post
-``` 
-hugo new content/posts/my-first-post.md 
+# Adding a new post
+Create a new Markdown file in the content/posts folder: 
 ```
+hugo new content/posts/my-first-post.md
+```
+Enter the text of your post in the Markdown file
+Save the file
+Refresh the page in your browser
+
 Hugo created the file in the ``` content/posts ``` directory. Open the file with your editor.
 Add some Markdown to the body of the post, but do not change the draft value.
 ```

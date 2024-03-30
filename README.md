@@ -34,7 +34,7 @@ hugo version
 hugo server 
 ```
 # Adding a new post
-Create a new Markdown file in the content/posts folder: 
+Create a new Markdown file in the ``` content/posts ``` folder: 
 ```
 hugo new content/posts/my-first-post.md
 ```
